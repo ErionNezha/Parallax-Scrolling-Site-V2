@@ -1,0 +1,20 @@
+Parallax-Scrolling-Site-V2/
+  demo/
+    index.html
+    script.js
+    style.css
+  index.html
+  original/
+    parallax-scroll-animation/
+      dist/
+        index.html
+        script.js
+        style.css
+      LICENSE.txt
+      README.md
+      src/
+        index.html
+        script.js
+        style.css
+  PROVENANCE_LICENSE.txt
+  README.md
